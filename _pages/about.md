@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 Zheng Tong (童峥), Ph.D.
-
+---
 Associate Professor
 
 Office Transportation Building 513
@@ -17,13 +17,11 @@ Telephone: +86-17768124214
 
 Email: tongzheng@seu.edu.cn
 
-
 Jiulonghu Campus,
 
 Nanjing, 211189, China
 
 I am currently an associate professor at [Southeast University](https://www.seu.edu.cn/english/main.htm), [School of Transportation](https://tc.seu.edu.cn/jsdw/list.htm), Group of [Road and Airport Paving Technology](https://tc.seu.edu.cn/2022/1103/c25770a425777/page.htm). My research interests cover nondestructive examination, decision-making for pavement maintanance , deep learning, Dempster-Shafer theory.
 
-
-
+I did my Ph.D. at [Heudiasyc Laboratory](https://www.hds.utc.fr/) of [Université de Technologie de Compiègne](https://www.utc.fr/), under the supervision of Prof. Thierry Denœux and Dr. Philippe Xu. My thesis was supported by with the UT-INSA program.
 
