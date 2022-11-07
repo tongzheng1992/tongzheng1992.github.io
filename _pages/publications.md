@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 ## **Table of Contents**<br />
-<a href="NDT">**Deep learning and NDT**<br />
-<a href="inspection">**Deep learning and pavement inspection**<br />
-<a href="DST">**Deep learning and Dempster-Shafer theory**<br />
-<a href="materials">**Deep learning and pavement materials**<br />
-<a href="others">**Others**<br />
+<a href="#NDT">**Deep learning and NDT**<br />
+<a href="#inspection">**Deep learning and pavement inspection**<br />
+<a href="#DST">**Deep learning and Dempster-Shafer theory**<br />
+<a href="#materials">**Deep learning and pavement materials**<br />
+<a href="#others">**Others**<br />
 ****
 
 ## <a id="NDT"/>**Deep learning and NDT**
