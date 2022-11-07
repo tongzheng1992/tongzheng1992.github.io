@@ -4,8 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
----
 title: "Deep learning and Dempster-Shafer thoery"
 ---
 
