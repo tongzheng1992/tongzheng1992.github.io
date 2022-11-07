@@ -40,13 +40,20 @@ Aimin Sha, Zheng Tong, and Jie Gao. [Recognition and measurement of pavement dis
  
 ## <a id="DST"/>**Deep learning and Dempster-Shafer thoery**
 
-Zheng Tong, Philippe Xu, and Thierry Denoeux. [An evidential classifier based on Dempster-Shafer theory and deep learning.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/DST/tong2021evidential.pdf) Neurocomputing 450 (2021): 275-293. [DOI](https://doi.org/10.1016/j.neucom.2021.03.066)<br />
+Zheng Tong, Philippe Xu, and Thierry Denoeux. [An evidential classifier based on Dempster-Shafer theory and deep learning.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/DST/tong2021evidential.pdf) *Neurocomputing* 450 (2021): 275-293. [DOI](https://doi.org/10.1016/j.neucom.2021.03.066)<br />
+  
+Zheng Tong, Philippe Xu, and Thierry Denoeux. [ConvNet and Dempster-Shafer theory for object recognition.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/DST/tong2019convnet.pdf) Processing in the 6th International Conference on Scalable Uncertainty Management, pp. 368-381. Compiegne, France, 2019. [Link](https://link.springer.com/chapter/10.1007/978-3-030-35514-2_27)<br />
 
 ## <a id="materials"/>**Deep learning and pavement materials**
 
+Zheng Tong, Haoyan Guo, Jie Gao, and Zhenjun Wang. [A novel method for multi-scale carbon fiber distribution characterization in cement-based composites.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/materials/tong2019novel.pdf) *Construction and Building Materials* 218 (2019): 40-52. [DOI](https://doi.org/10.1016/j.conbuildmat.2019.05.115)<br />
+  
+Hai Liu, Aimin Sha, Zheng Tong, and Jie Gao. [Autonomous microscopic bunch inspection using region-based deep learning for evaluating graphite powder dispersion.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/materials/liu2018autonomous.pdf) *Construction and Building Materials* 173 (2018): 525-539. [DOI](https://doi.org/10.1016/j.conbuildmat.2018.04.050)<br />
 
 ## <a id="others"/>**Others**
-  
+ 
+Jie Gao, Aimin Sha, Yue Huang, Zhuangzhuang Liu, Liqun Hu, Wei Jiang, Di Yun, Zheng Tong, and Zhenjun Wang. [Cycling comfort on asphalt pavement: Influence of the pavement-tyre interface on vibration.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/others/gao2019cycling.pdf) Journal of cleaner production 223 (2019): 323-341. [DOI](https://doi.org/10.1016/j.jclepro.2019.03.153)<br />
+ 
 Jie Gao, Aimin Sha, Yue Huang, Liqun Hu, Zheng Tong, and Wei Jiang. [Evaluating the cycling comfort on urban roads based on cyclists' perception of vibration.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/others/gao2018evaluating.pdf) Journal of Cleaner Production 192 (2018): 531-541. [DOI](https://doi.org/10.1016/j.jclepro.2018.04.275)<br />
   
 Jie Gao, Aimin Sha, Zhenjun Wang, Zheng Tong, and Zhuangzhuang Liu. [Utilization of steel slag as aggregate in asphalt mixtures for microwave deicing](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/others/gao2017utilization.pdf). *Journal of Cleaner Production* 152 (2017): 429-442. [DOI](https://doi.org/10.1016/j.conbuildmat.2017.04.097)<br />
