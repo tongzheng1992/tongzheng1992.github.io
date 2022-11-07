@@ -22,7 +22,11 @@ Tong, Zheng, Jie Gao, and Haitao Zhang. [Innovative method for recognizing subgr
   
 ## <a id="inspection"/>**Deep learning and pavement inspection**
 
-Tong Zheng, Jie Gao, Zhenqiang Han, and Zhenjun Wang. [Recognition of asphalt pavement crack length using deep convolutional neural networks.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/inspection/tong2018recognition.pdf) *Road Materials and Pavement Design* 19, no. 6 (2018): 1334-1349.[DOI](https://doi.org/10.1080/14680629.2017.1308265)<br />
+Tong, Zheng, Jie Gao, Aimin Sha, Liqun Hu, and Shuai Li. [Convolutional neural network for asphalt pavement surface texture analysis.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/inspection/tong2018convolutional.pdf) Computer‐Aided Civil and Infrastructure Engineering 33, no. 12 (2018): 1056-1072. [DOI](https://doi.org/10.1080/14680629.2017.1308265)<br />
+
+Tong Zheng, Jie Gao, Zhenqiang Han, and Zhenjun Wang. [Recognition of asphalt pavement crack length using deep convolutional neural networks.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/inspection/tong2018recognition.pdf) *Road Materials and Pavement Design* 19, no. 6 (2018): 1334-1349. [DOI](https://doi.org/10.1080/14680629.2017.1308265)<br />
+  
+
 
 
 ## <a id="DST"/>**Deep learning and Dempster-Shafer thoery**
