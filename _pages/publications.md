@@ -29,3 +29,5 @@ Tong Zheng, Jie Gao, and Haitao Zhang. [Recognition, location, measurement, and 
 
 ****
 ## <a id="others"/>**Others**
+  
+Gao Jie, Aimin Sha, Zhenjun Wang, Zheng Tong, and Zhuangzhuang Liu. [Utilization of steel slag as aggregate in asphalt mixtures for microwave deicing](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/others/gao2017utilization.pdf). Journal of Cleaner Production 152 (2017): 429-442. [DOI](https://doi.org/10.1016/j.conbuildmat.2017.04.097)<br />
