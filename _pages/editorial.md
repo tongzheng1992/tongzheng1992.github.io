@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Editorial activities"
-permalink: /editorial_activities/
+permalink: /editorial/
 author_profile: true
 ---
 
