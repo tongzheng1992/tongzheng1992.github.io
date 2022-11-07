@@ -2,9 +2,6 @@
 main:
   - title: "Publications"
     url: /publications/
-    
-  - title: "Biographical Information"
-    url: /Biographical Information/  
 
   - title: "Talks"
     url: /talks/   
