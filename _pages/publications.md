@@ -16,6 +16,8 @@ author_profile: true
 ## <a id="NDT"/>**Deep learning and NDT**
 
 Zheng Tong, Jie Gao, and Dongdong Yuan. [Advances of deep learning applications in ground-penetrating radar: A survey.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/NDT/tong2020advances.pdf) *Construction and Building Materials* 258 (2020): 120371. [DOI](https://doi.org/10.1016/j.conbuildmat.2020.120371)<br />
+  
+Zheng Tong, Dongdong Yuan, Jie Gao, Yongfeng Wei, and Hui Dou. [Pavement-distress detection using ground-penetrating radar and network in networks.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/NDT/tong2020pavement.pdf) Construction and Building Materials 233 (2020): 117352. [DOI](https://doi.org/10.1016/j.conbuildmat.2019.117352)<br />
 
 Zheng Tong, Jie Gao, and Haitao Zhang. [Innovative method for recognizing subgrade defects based on a convolutional neural network.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/NDT/tong2018innovative.pdf) *Construction and Building Materials* 169 (2018): 69-82. [DOI](https://doi.org/10.1016/j.conbuildmat.2018.02.081)<br />
   
