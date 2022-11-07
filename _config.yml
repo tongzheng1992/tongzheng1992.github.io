@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tong Zheng（童峥） / Dr."
+title                    : "Tong Zheng/ Dr."
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
