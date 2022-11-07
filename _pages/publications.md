@@ -1,10 +1,14 @@
 ---
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
+title: "Deep learning and NDT"
 ---
-**Deep learning and NDT**
+
+---
+title: "Deep learning and NDT"
+---
+
+---
+title: "Deep learning and NDT"
+---
 
 **Deep learning and pavement inspection**
 
