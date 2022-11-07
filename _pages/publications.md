@@ -7,13 +7,10 @@ author_profile: true
 
 ****
 **Table of Contents**<br />
-[Deep learning and NDT](## **Deep learning and NDT**)<br />
-[Deep learning and NDT](## **Deep learning and NDT**)<br />
-[Deep learning and NDT](## **Deep learning and NDT**)<br />
-[Deep learning and NDT](## **Deep learning and NDT**)<br />
+<a href="#NDT">**Deep learning and NDT**<br />
 ****
 
-## **Deep learning and NDT**
+## <a id="NDT"/>**Deep learning and NDT**
 
 ## **Deep learning and pavement inspection**
 
