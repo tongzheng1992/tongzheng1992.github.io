@@ -2,21 +2,26 @@
 main:
   - title: "Publications"
     url: /publications/
+    
+  - title: "Biographical Information"
+    url: /Biographical Information/  
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/   
+    
+  - title: "Software"
+    url: /Software/  
+    
+  - title: "Students"
+    url: /Students/  
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Editorial activities"
+    url: /Editorial activities/  
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+
