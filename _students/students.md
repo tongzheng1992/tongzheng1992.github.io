@@ -1,6 +1,6 @@
 ---
 title: "Teaching experience 1"
-collection: software
+collection: students
 type: "Undergraduate course"
 permalink: /students/students
 venue: "University 1, Department"
