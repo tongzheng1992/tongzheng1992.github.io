@@ -4,14 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**Deep learning and NDT**
 
+**Deep learning and pavement inspection**
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+**Deep learning and Dempster-Shafer thoery**
 
-{% include base_path %}
+**Deep learning and Pavement materials**
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
