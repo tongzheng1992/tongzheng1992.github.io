@@ -13,7 +13,7 @@ author_profile: true
 ****
 
 ## <a id="NDT"/>**Deep learning and NDT**
-Tong, Zheng, Jie Gao, and Haitao Zhang. <u>Recognition, location, measurement, and 3D reconstruction of concealed cracks using convolutional neural networks.</u> *Construction and Building Materials* 146 (2017): 775-787.<br />
+Tong, Zheng, Jie Gao, and Haitao Zhang. [Recognition, location, measurement, and 3D reconstruction of concealed cracks using convolutional neural networks.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/NDT/tong2017recognition.pdf) *Construction and Building Materials* 146 (2017): 775-787.<br />
   
 
 ****
