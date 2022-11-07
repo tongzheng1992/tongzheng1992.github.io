@@ -7,18 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Zheng Tong (童峥), Ph.D.
+Associate Professor at [Southeast University](https://www.seu.edu.cn/english/main.htm), [School of Transportation](https://tc.seu.edu.cn/jsdw/list.htm), Group of [Road and Airport Paving Technology](https://tc.seu.edu.cn/2022/1103/c25770a425777/page.htm)
 
-Zheng Tong now is Associate Professor at [Southeast University](https://www.seu.edu.cn/english/main.htm), Nanjing, China
+Email: tongzheng@seu.edu.cn
 
-School of Transportation
 
-Group of [Road and Airport Paving Technology](https://tc.seu.edu.cn/2022/1103/c25770a425777/page.htm)
 
-right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
