@@ -5,7 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-o to the repository's settings
+---
+title: "Deep learning and Dempster-Shafer thoery"
+---
+
+Tong, Zheng, Jie Gao, and Haitao Zhang. "Recognition, location, measurement, and 3D reconstruction of concealed cracks using convolutional neural networks." Construction and Building Materials 146 (2017): 775-787.<br />
+
+
+
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
