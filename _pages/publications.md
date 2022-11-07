@@ -17,6 +17,8 @@ author_profile: true
 
 Tong Zheng, Jie Gao, and Haitao Zhang. [Recognition, location, measurement, and 3D reconstruction of concealed cracks using convolutional neural networks.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/NDT/tong2017recognition.pdf) *Construction and Building Materials* 146 (2017): 775-787. [DOI](https://doi.org/10.1016/j.conbuildmat.2017.04.097)<br />
 
+Tong, Zheng, Jie Gao, and Haitao Zhang. [Innovative method for recognizing subgrade defects based on a convolutional neural network.] *Construction and Building Materials* 169 (2018): 69-82. [DOI](https://doi.org/10.1016/j.conbuildmat.2018.02.081)<br />
+
   
 ## <a id="inspection"/>**Deep learning and pavement inspection**
 
