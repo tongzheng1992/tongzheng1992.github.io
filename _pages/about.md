@@ -20,9 +20,11 @@ Nanjing, 211189, China
 
 I am currently an associate professor at [Southeast University](https://www.seu.edu.cn/english/main.htm), [School of Transportation](https://tc.seu.edu.cn/jsdw/list.htm), Group of [Road and Airport Paving Technology](https://tc.seu.edu.cn/2022/1103/c25770a425777/page.htm). My research interests cover nondestructive examination, decision-making for pavement maintanance , deep learning, Dempster-Shafer theory.
 
-I did my Ph.D. at [Heudiasyc Laboratory](https://www.hds.utc.fr/) of [Université de Technologie de Compiègne](https://www.utc.fr/), under the supervision of Prof. [Thierry Denœux](https://www.hds.utc.fr/~tdenoeux/dokuwiki/en/start) and Dr. [Philippe Xu](https://www.hds.utc.fr/~xuphilip/dokuwiki/en/start). [My thesis](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/evidential_dl_PhD2.pdf) was supported by [China Scholarship Council](https://www.csc.edu.cn/) with the [UT-INSA program](http://www-csc.utt.fr/).
+I did my Ph.D. at [Heudiasyc Laboratory](https://www.hds.utc.fr/) of [Université de Technologie de Compiègne](https://www.utc.fr/), under the supervision of Prof. [Thierry Denœux](https://www.hds.utc.fr/~tdenoeux/dokuwiki/en/start) and Dr. [Philippe Xu](https://www.hds.utc.fr/~xuphilip/dokuwiki/en/start). [My thesis](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/evidential_dl_PhD2.pdf) was supported by the [UT-INSA program](http://www-csc.utt.fr/) of [China Scholarship Council](https://www.csc.edu.cn/).
 
 ****
 Biographical Information:<br />
-2022.06-...: **Associate Professor**-[Southeast University](https://www.seu.edu.cn/english/main.htm)<br />
-2018.09-2022.03: **Ph.D.** -
+2022.06-...: **Associate Professor**-[Southeast University](https://www.seu.edu.cn/english/main.htm)-China<br />
+2018.09-2022.03: **Ph.D.** -[Université de Technologie de Compiègne](https://www.utc.fr/)-France<br />
+2015.09-2018.06: **M.S.** -[Chang'an University](https://en.chd.edu.cn/) under the supervision of Prof. [Aimin Sha](https://js.chd.edu.cn/glxy/sam/list.htm)-China<br />
+2011.09-2015.06: **B.S.** -[Northeast Forestry University]([https://www.utc.fr/](https://en.nefu.edu.cn/)-China
