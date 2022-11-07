@@ -7,16 +7,16 @@ main:
     url: /talks/   
     
   - title: "Software"
-    url: /Software/  
+    url: /software/  
     
   - title: "Students"
-    url: /Students/  
+    url: /students/  
 
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Editorial activities"
-    url: /Editorial activities/  
+    url: /editorial activities/  
         
   - title: "CV"
     url: /cv/
