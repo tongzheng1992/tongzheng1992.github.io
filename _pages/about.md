@@ -10,12 +10,10 @@ redirect_from:
 **Zheng Tong (童峥)**, Ph.D.<br />
 Associate Professor
 
-Office Transportation Building 513<br />
+Office: Transportation Building 513<br />
 Telephone: +86-17768124214<br />
-
 Email: tongzheng@seu.edu.cn<br />
-
-Address:
+Address:<br />
 School of Transportation, Southeast University<br />
 Jiulonghu Campus,<br />
 Nanjing, 211189, China
