@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "TONG Zheng（童峥）"
-  avatar           : "/images/editing-talk.png"
+  avatar           : "/images/500x300.png"
   bio              : #"Your biography for the left-hand sidebar"
   location         : "Nanjing China"
   employer         : "Southeast University"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/tongzheng1992"
+  github           : "tongzheng1992"
   google_plus      :
   keybase          :
   instagram        :
