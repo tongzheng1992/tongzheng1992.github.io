@@ -13,10 +13,13 @@ main:
     url: /students/  
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
+    
+  - title: "Funds"
+    url: /funds/ 
     
   - title: "Editorial activities"
-    url: /editorial/  
+    url: /editorial/
         
   - title: "CV"
     url: /cv/
