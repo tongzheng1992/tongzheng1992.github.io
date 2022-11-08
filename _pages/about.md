@@ -20,7 +20,7 @@ School of Transportation, Southeast University<br />
 Jiulonghu Campus,<br />
 Nanjing, 211189, China
 
-I am currently an associate professor at [Southeast University](https://www.seu.edu.cn/english/main.htm), [School of Transportation](https://tc.seu.edu.cn/jsdw/list.htm), Group of [Road and Airport Paving Technology](https://tc.seu.edu.cn/2022/1103/c25770a425777/page.htm). My research interests cover:<br />
+I am currently an associate professor at [Southeast University](https://www.seu.edu.cn/english/main.htm), [School of Transportation](https://tc.seu.edu.cn/jsdw/list.htm), Group of [Road and Airport Paving Technology](https://tc.seu.edu.cn/2022/1103/c25770a425777/page.htm). My research interests cover:
 *   Deep learning and its applications in pavement engineering
 *   Dempster-Shafer theory with uncertainty decision-making
 *   Intelligent structural health monitoring and inspection
@@ -37,8 +37,8 @@ Biographical Information:<br />
 
 ****
 
-**News**<br />
-Call for papers: [Special Issue "Advances in Nondestructive Testing and Evaluation"](https://www.mdpi.com/journal/applsci/special_issues/ANTE)<br />
-Call for papers: [Special Issue on "Advances of Deep Learning Applications in Civil and Transportation Engineering"](https://ojs.bonviewpress.com/index.php/AIA/CFP_SI_DLACTE)<br />
-All my softwares have been moved to [my GitHub](https://github.com/tongzheng1992?tab=repositories)
+**News**
+*   Call for papers: [Special Issue "Advances in Nondestructive Testing and Evaluation"](https://www.mdpi.com/journal/applsci/special_issues/ANTE)
+*   Call for papers: [Special Issue on "Advances of Deep Learning Applications in Civil and Transportation Engineering"](https://ojs.bonviewpress.com/index.php/AIA/CFP_SI_DLACTE)
+*   All my softwares have been moved to [my GitHub](https://github.com/tongzheng1992?tab=repositories)
 
