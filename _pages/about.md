@@ -34,4 +34,7 @@ Biographical Information:<br />
 ****
 
 **News**<br />
-Comning soon...
+Call for papers: [Special Issue "Advances in Nondestructive Testing and Evaluation"](https://www.mdpi.com/journal/applsci/special_issues/ANTE)<br />
+Call for papers: [Special Issue on Advances of Deep Learning Applications in Civil and Transportation Engineering](https://ojs.bonviewpress.com/index.php/AIA/CFP_SI_DLACTE)<br />
+All my softwares have been moved to [my GitHub](https://github.com/tongzheng1992?tab=repositories)
+
