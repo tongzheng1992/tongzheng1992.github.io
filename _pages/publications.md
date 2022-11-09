@@ -27,6 +27,8 @@ Zheng Tong, Jie Gao, and Haitao Zhang. [Recognition, location, measurement, and 
 
 ## <a id="inspection"/>**Deep learning and pavement inspection**
 
+Zheng Tong, Tao Ma, Ju Huyan, and Weiguang Zhang. [Pavementscapes: a large-scale hierarchical image dataset for asphalt pavement damage segmentation.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/inspection/tong2022pavementscapes.pdf) arXiv preprint arXiv:2208.00775 (2022). [Link](https://arxiv.org/abs/2208.00775)
+
 Zheng Tong, Dongdong Yuan, Jie Gao, and Zhenjun Wang. [Pavement defect detection with fully convolutional network and an uncertainty framework.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/inspection/tong2020pavement.pdf) *Computer‐Aided Civil and Infrastructure Engineering* 35, no. 8 (2020): 832-849. [DOI](https://doi.org/10.1111/mice.12533)<br />
   
 Wanli Ye, Wei Jiang, Zheng Tong, Dongdong Yuan, and Jingjing Xiao. [Convolutional neural network for pothole detection in asphalt pavement.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/inspection/ye2021convolutional.pdf) *Road materials and pavement design* 22, no. 1 (2021): 42-58. [DOI](https://doi.org/10.1080/14680629.2019.1615533)
