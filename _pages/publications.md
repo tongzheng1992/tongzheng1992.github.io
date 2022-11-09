@@ -64,7 +64,9 @@ Hai Liu, Aimin Sha, Zheng Tong, and Jie Gao. [Autonomous microscopic bunch inspe
 Zheng Tong, Jie Gao, and Haitao Zhang. [Innovation for evaluating aggregate angularity based upon 3D convolutional neural network.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/materials/tong2017innovation.pdf) *Construction and Building Materials* 155 (2017): 919-929. [DOI](https://doi.org/10.1016/j.conbuildmat.2017.08.129)
 
 ## <a id="others"/>**Others**
- 
+
+Weiguang Zhang, Kamal Nasir Ahmad, Zheng Tong, Zhaoguang Hu, Haoyang Wang, Meng Wu, Kai Zhao, Shunxin Yang, Hassan Farooq, and Louay N. Mohammad. [In-Time Density Monitoring of In-Place Asphalt Layer Construction via Intelligent Compaction Technology.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/others/zhang2023time.pdf) Journal of Materials in Civil Engineering 35, no. 1 (2023): 04022386. [Link](https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29MT.1943-5533.0004558)
+
 Chengjia Han, Fanlong Tang, Tao Ma, Linhao Gu, and Zheng Tong. [Construction quality evaluation of asphalt pavement based on BIM and GIS.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/others/han2022construction.pdf) Automation in Construction 141 (2022): 104398. [DOI](https://doi.org/10.1016/j.autcon.2022.104398)
   
 Wei Jiang, Dongdong Yuan, Zheng Tong, Aimin Sha, Jingjing Xiao, Meng Jia, Wanli Ye, and Wentong Wang. [Aging effects on rheological properties of high viscosity modified asphalt.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/others/jiang2021aging.pdf) Journal of Traffic Transportationg (English Edition) 20210322, no. 002 (2021). [Link](https://kns. cnki. net/kcms/detail/61.1494.)
