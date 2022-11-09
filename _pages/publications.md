@@ -67,6 +67,8 @@ Zheng Tong, Jie Gao, and Haitao Zhang. [Innovation for evaluating aggregate angu
 
 ## <a id="others"/>**Others**
 
+Jianying Hu, Fan Bao, Ju Huyan, Yu Zhu, Zheng Tong, and Weiguang Zhang. [Risk Evaluation of Airport Safety during Non-stop Construction Using Fuzzy Analytical Hierarchy Process and Bayesian Belief Network.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/others/hu2022risk.pdf) Advance Researches in Civil Engineering 4, no. 2 (2022): 10-23. [Link](http://www.arce.ir/article_157267.html)
+  
 Weiguang Zhang, Kamal Nasir Ahmad, Zheng Tong, Zhaoguang Hu, Haoyang Wang, Meng Wu, Kai Zhao, Shunxin Yang, Hassan Farooq, and Louay N. Mohammad. [In-Time Density Monitoring of In-Place Asphalt Layer Construction via Intelligent Compaction Technology.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/others/zhang2023time.pdf) Journal of Materials in Civil Engineering 35, no. 1 (2023): 04022386. [Link](https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29MT.1943-5533.0004558)
 
 Chengjia Han, Fanlong Tang, Tao Ma, Linhao Gu, and Zheng Tong. [Construction quality evaluation of asphalt pavement based on BIM and GIS.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/others/han2022construction.pdf) Automation in Construction 141 (2022): 104398. [DOI](https://doi.org/10.1016/j.autcon.2022.104398)
