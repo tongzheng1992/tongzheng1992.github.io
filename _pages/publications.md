@@ -25,7 +25,6 @@ Zheng Tong, Jie Gao, and Haitao Zhang. [Innovative method for recognizing subgra
   
 Zheng Tong, Jie Gao, and Haitao Zhang. [Recognition, location, measurement, and 3D reconstruction of concealed cracks using convolutional neural networks.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/NDT/tong2017recognition.pdf) *Construction and Building Materials* 146 (2017): 775-787. [DOI](https://doi.org/10.1016/j.conbuildmat.2017.04.097)<br />
 
-  
 ## <a id="inspection"/>**Deep learning and pavement inspection**
 
 Zheng Tong, Dongdong Yuan, Jie Gao, and Zhenjun Wang. [Pavement defect detection with fully convolutional network and an uncertainty framework.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/inspection/tong2020pavement.pdf) *Computer‐Aided Civil and Infrastructure Engineering* 35, no. 8 (2020): 832-849. [DOI](https://doi.org/10.1111/mice.12533)<br />
@@ -40,6 +39,8 @@ Aimin Sha, Zheng Tong, and Jie Gao. [Recognition and measurement of pavement dis
  
 ## <a id="DST"/>**Deep learning and Dempster-Shafer thoery**
 
+Tong, Zheng, Philippe Xu, and Thierry Denœux. "Fusion of evidential CNN classifiers for image classification." In International Conference on Belief Functions, pp. 168-176. Shanghai, China. 55
+  
 Zheng Tong, Philippe Xu, and Thierry Denoeux. [Evidential fully convolutional network for semantic segmentation.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/DST/tong2021efcn.pdf) *Applied Intelligence* 51, no. 9 (2021): 6376-6399.  [DOI](https://doi.org/10.1007/s10489-021-02327-0)<br />
 
 Zheng Tong, Philippe Xu, and Thierry Denoeux. [An evidential classifier based on Dempster-Shafer theory and deep learning.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/DST/tong2021evidential.pdf) *Neurocomputing* 450 (2021): 275-293. [DOI](https://doi.org/10.1016/j.neucom.2021.03.066)<br />
