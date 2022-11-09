@@ -49,6 +49,8 @@ Zheng Tong, Philippe Xu, and Thierry Denoeux. [ConvNet and Dempster-Shafer theor
 ## <a id="materials"/>**Deep learning and pavement materials**
 
 Zheng Tong, Jinyang Huo, and Zhenjun Wang. [High-throughput design of fiber reinforced cement-based composites using deep learning.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/materials/tong2020high%2C.pdf) *Cement and Concrete Composites* 113 (2020): 103716. [DOI](https://doi.org/10.1016/j.cemconcomp.2020.103716)<br />
+  
+Tong, Zheng, Jie Gao, Zhenjun Wang, Yongfeng Wei, and Hui Dou. [A new method for CF morphology distribution evaluation and CFRC property prediction using cascade deep learning.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/materials/tong2019new.pdf) Construction and Building Materials 222 (2019): 829-838. [DOI](https://doi.org/10.1016/j.conbuildmat.2019.06.160)<br />
 
 Zheng Tong, Haoyan Guo, Jie Gao, and Zhenjun Wang. [A novel method for multi-scale carbon fiber distribution characterization in cement-based composites.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/materials/tong2019novel.pdf) *Construction and Building Materials* 218 (2019): 40-52. [DOI](https://doi.org/10.1016/j.conbuildmat.2019.05.115)<br />
   
