@@ -15,6 +15,8 @@ author_profile: true
 
 ## <a id="NDT"/>**Deep learning and NDT**
 
+Handuo Yang, Ju Huyan, Tao Ma, Zheng Tong, Chengjia Han, and Tianyan Xie. [Novel Computer Tomography image enhancement deep neural networks for asphalt mixtures.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/NDT/yang2022novel.pdf) Construction and Building Materials 352 (2022): 129067. [DOI](https://doi.org/10.1016/j.conbuildmat.2022.129067)
+  
 Zheng Tong, Jie Gao, and Dongdong Yuan. [Advances of deep learning applications in ground-penetrating radar: A survey.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/NDT/tong2020advances.pdf) *Construction and Building Materials* 258 (2020): 120371. [DOI](https://doi.org/10.1016/j.conbuildmat.2020.120371)<br />
   
 Jie Gao, Dongdong Yuan, Zheng Tong, Jiangang Yang, and Di Yu. [Autonomous pavement distress detection using ground penetrating radar and region-based deep learning.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/NDT/gao2020autonomous.pdf) *Measurement* 164 (2020): 108077. [DOI](https://doi.org/10.1016/j.measurement.2020.108077)
