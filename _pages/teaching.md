@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-## <a id="NDT"/>**Deep learning and NDT**
+
 ## <a id="undergraduate"/>**Courses for undergraduate students**
 *  February, 2023, **Road subgrade and pavement engineering**. Slides is coming soon.
 
