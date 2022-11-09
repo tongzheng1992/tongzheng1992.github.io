@@ -39,19 +39,19 @@ Aimin Sha, Zheng Tong, and Jie Gao. [Recognition and measurement of pavement dis
  
 ## <a id="DST"/>**Deep learning and Dempster-Shafer thoery**
 
-Tong, Zheng, Philippe Xu, and Thierry Denœux. "Fusion of evidential CNN classifiers for image classification." In International Conference on Belief Functions, pp. 168-176. Shanghai, China. 55
+Zheng Tong, Philippe Xu, and Thierry Denœux. [Fusion of evidential CNN classifiers for image classification.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/DST/paper11-E-fusion-DL.pdf) In the 2021 International Conference on Belief Functions, pp. 168-176. Shanghai, China. [Link](https://link.springer.com/chapter/10.1007/978-3-030-88601-1_17).
   
-Zheng Tong, Philippe Xu, and Thierry Denoeux. [Evidential fully convolutional network for semantic segmentation.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/DST/tong2021efcn.pdf) *Applied Intelligence* 51, no. 9 (2021): 6376-6399.  [DOI](https://doi.org/10.1007/s10489-021-02327-0)<br />
+Zheng Tong, Philippe Xu, and Thierry Denœux. [Evidential fully convolutional network for semantic segmentation.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/DST/tong2021efcn.pdf) *Applied Intelligence* 51, no. 9 (2021): 6376-6399.  [DOI](https://doi.org/10.1007/s10489-021-02327-0)<br />
 
-Zheng Tong, Philippe Xu, and Thierry Denoeux. [An evidential classifier based on Dempster-Shafer theory and deep learning.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/DST/tong2021evidential.pdf) *Neurocomputing* 450 (2021): 275-293. [DOI](https://doi.org/10.1016/j.neucom.2021.03.066)<br />
+Zheng Tong, Philippe Xu, and Thierry Denœux. [An evidential classifier based on Dempster-Shafer theory and deep learning.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/DST/tong2021evidential.pdf) *Neurocomputing* 450 (2021): 275-293. [DOI](https://doi.org/10.1016/j.neucom.2021.03.066)<br />
   
-Zheng Tong, Philippe Xu, and Thierry Denoeux. [ConvNet and Dempster-Shafer theory for object recognition.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/DST/tong2019convnet.pdf) Processing in the 6th International Conference on Scalable Uncertainty Management, pp. 368-381. Compiegne, France, 2019. [Link](https://link.springer.com/chapter/10.1007/978-3-030-35514-2_27)<br />
+Zheng Tong, Philippe Xu, and Thierry Denœux. [ConvNet and Dempster-Shafer theory for object recognition.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/DST/tong2019convnet.pdf) Processing in the 6th International Conference on Scalable Uncertainty Management, pp. 368-381. Compiegne, France, 2019. [Link](https://link.springer.com/chapter/10.1007/978-3-030-35514-2_27)<br />
 
 ## <a id="materials"/>**Deep learning and pavement materials**
 
 Zheng Tong, Jinyang Huo, and Zhenjun Wang. [High-throughput design of fiber reinforced cement-based composites using deep learning.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/materials/tong2020high%2C.pdf) *Cement and Concrete Composites* 113 (2020): 103716. [DOI](https://doi.org/10.1016/j.cemconcomp.2020.103716)<br />
   
-Tong, Zheng, Jie Gao, Zhenjun Wang, Yongfeng Wei, and Hui Dou. [A new method for CF morphology distribution evaluation and CFRC property prediction using cascade deep learning.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/materials/tong2019new.pdf) Construction and Building Materials 222 (2019): 829-838. [DOI](https://doi.org/10.1016/j.conbuildmat.2019.06.160)<br />
+Zheng Tong, Jie Gao, Zhenjun Wang, Yongfeng Wei, and Hui Dou. [A new method for CF morphology distribution evaluation and CFRC property prediction using cascade deep learning.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/materials/tong2019new.pdf) Construction and Building Materials 222 (2019): 829-838. [DOI](https://doi.org/10.1016/j.conbuildmat.2019.06.160)<br />
 
 Zheng Tong, Haoyan Guo, Jie Gao, and Zhenjun Wang. [A novel method for multi-scale carbon fiber distribution characterization in cement-based composites.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/materials/tong2019novel.pdf) *Construction and Building Materials* 218 (2019): 40-52. [DOI](https://doi.org/10.1016/j.conbuildmat.2019.05.115)<br />
   
