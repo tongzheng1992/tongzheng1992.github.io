@@ -15,6 +15,8 @@ author_profile: true
 
 ## <a id="NDT"/>**Deep learning and NDT**
 
+Yiming Zhang, Fan Bao, Zheng Tong, Tao Ma, Weiguang Zhang, Jianwei Fan, Xiaoming Huang. [Radar wave response of slab bottom voids in heterogeneous airport concrete pavement.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/NDT/%E9%9D%9E%E5%9D%87%E8%B4%A8%E6%9C%BA%E5%9C%BA%E6%B0%B4%E6%B3%A5%E9%81%93%E9%9D%A2%E6%9D%BF%E5%BA%95%E8%84%B1%E7%A9%BA%E9%9B%B7%E8%BE%BE%E6%B3%A2%E5%93%8D%E5%BA%94.pdf) Journal of Southeast University (Natural Science Edition) 53(1) (2023): 137-148. [DOI](10.3969/j.issn.1001-0505.2023.01.017)
+
 Handuo Yang, Ju Huyan, Tao Ma, Zheng Tong, Chengjia Han, and Tianyan Xie. [Novel Computer Tomography image enhancement deep neural networks for asphalt mixtures.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/NDT/yang2022novel.pdf) Construction and Building Materials 352 (2022): 129067. [DOI](https://doi.org/10.1016/j.conbuildmat.2022.129067)
   
 Zheng Tong, Jie Gao, and Dongdong Yuan. [Advances of deep learning applications in ground-penetrating radar: A survey.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/NDT/tong2020advances.pdf) *Construction and Building Materials* 258 (2020): 120371. [DOI](https://doi.org/10.1016/j.conbuildmat.2020.120371)<br />
