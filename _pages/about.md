@@ -38,7 +38,8 @@ I did my Ph.D. at [Heudiasyc Laboratory](https://www.hds.utc.fr/) of [Universit√
 ****
 
 **News**
+*   New Publication: [Zheng Tong, Tao Ma, Weiguang Zhang, Ju Huyan. Evidential transformer for pavement distress segmentation. Computer‚ÄêAided Civil and Infrastructure Engineering, 2023 (in press).](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.13018)
 *   Call for papers: [Special Issue "Advances in Nondestructive Testing and Evaluation"](https://www.mdpi.com/journal/applsci/special_issues/ANTE)
 *   Call for papers: [Special Issue on "Advances of Deep Learning Applications in Civil and Transportation Engineering"](https://ojs.bonviewpress.com/index.php/AIA/CFP_SI_DLACTE)
-*   All my softwares have been moved to [my GitHub](https://github.com/tongzheng1992?tab=repositories)
+*   All my software have been moved to [my GitHub](https://github.com/tongzheng1992?tab=repositories)
 
