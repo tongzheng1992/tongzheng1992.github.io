@@ -29,6 +29,10 @@ Zheng Tong, Jie Gao, and Haitao Zhang. [Recognition, location, measurement, and 
 
 ## <a id="inspection"/>**Deep learning and pavement inspection**
 
+Zheng Tong, Tao Ma, Weiguang Zhang, Ju Huyan. [Evidential transformer for pavement distress segmentation.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/inspection/E-transformer.pdf) *Computer‐Aided Civil and Infrastructure Engineering, 2023 (in press). [Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.13018)
+
+Tao Ma, Zheng Tong, Yiming Zhang, Weiguang Zhang. [A three-dimensional reconstruction method of pavement macro-texture using a multi-view deep neural network.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/inspection/%E4%B8%AD%E5%9B%BD%E5%85%AC%E8%B7%AF%E5%AD%A6%E6%8A%A5V5.pdf) China Journal Highway Transportation, 2023, 36(3), 1-11. (in Chinese) [Link](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=ZGGL202303005&uniplatform=OVERSEA&v=rqb2kGFeAGiuLuaha3GwGYLyGPFpn_2CtU_3f9u2kExlbPXtF-2Cs77oS0H_tFXF)
+
 Zheng Tong, Tao Ma, Ju Huyan, and Weiguang Zhang. [Pavementscapes: a large-scale hierarchical image dataset for asphalt pavement damage segmentation.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/inspection/tong2022pavementscapes.pdf) arXiv preprint arXiv:2208.00775 (2022). [Link](https://arxiv.org/abs/2208.00775)
 
 Zheng Tong, Dongdong Yuan, Jie Gao, and Zhenjun Wang. [Pavement defect detection with fully convolutional network and an uncertainty framework.](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/inspection/tong2020pavement.pdf) *Computer‐Aided Civil and Infrastructure Engineering* 35, no. 8 (2020): 832-849. [DOI](https://doi.org/10.1111/mice.12533)<br />
