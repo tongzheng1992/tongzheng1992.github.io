@@ -26,7 +26,7 @@ I am currently an associate professor at [Southeast University](https://www.seu.
 *   Intelligent structural health monitoring and inspection
 *   Nondestructive testing
 
-I did my Ph.D. at [Heudiasyc Laboratory](https://www.hds.utc.fr/) of [Université de Technologie de Compiègne](https://www.utc.fr/), under the supervision of Prof. [Thierry Denœux](https://www.hds.utc.fr/~tdenoeux/dokuwiki/en/start) and Dr. [Philippe Xu](https://www.hds.utc.fr/~xuphilip/dokuwiki/en/start). [My thesis](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/evidential_dl_PhD2.pdf) was supported by the [UT-INSA program](http://www-csc.utt.fr/) of [China Scholarship Council](https://www.csc.edu.cn/).
+I did my Ph.D. at [Heudiasyc Laboratory](https://www.hds.utc.fr/) of [Université de Technologie de Compiègne](https://www.utc.fr/), under the supervision of Prof. [Thierry Denœux](https://www.hds.utc.fr/~tdenoeux/dokuwiki/en/start) and Prof. [Philippe Xu](https://perso.ensta-paris.fr/~philippe.xu/). [My thesis](https://github.com/tongzheng1992/tongzheng1992.github.io/blob/master/pdf_publications/evidential_dl_PhD2.pdf) was supported by the [UT-INSA program](http://www-csc.utt.fr/) of [China Scholarship Council](https://www.csc.edu.cn/).
 
 ****
 **Biographical Information:<br />**
